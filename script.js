@@ -35,7 +35,10 @@ Example episode topic
 TOP 3 RECOMMENDATIONS:
 1. Focus on emerging trends within your interests
 2. Combine two seemingly unrelated interests
-3. Target underserved demographics in your niche`
+3. Target underserved demographics in your niche
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt2: {
                     name: "Show Concept",
@@ -58,7 +61,10 @@ Tone & style guide
 TOP 3 RECOMMENDATIONS:
 1. Define clear audience personas
 2. Establish consistent publishing rhythm
-3. Develop unique tone that matches your brand`
+3. Develop unique tone that matches your brand
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt3: {
                     name: "Unique Hook & Positioning",
@@ -71,7 +77,10 @@ Include a 1-line elevator pitch and tagline for each.
 TOP 3 RECOMMENDATIONS:
 1. Focus on unique value proposition
 2. Use emotional triggers in positioning
-3. Create memorable, repeatable taglines`
+3. Create memorable, repeatable taglines
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -89,7 +98,10 @@ Include meanings and why each name fits the niche.
 TOP 3 RECOMMENDATIONS:
 1. Use alliteration and rhythm
 2. Consider domain name availability
-3. Ensure name reflects content accurately`
+3. Ensure name reflects content accurately
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt5: {
                     name: "Podcast Brand Identity",
@@ -111,7 +123,10 @@ Brand voice and personality
 TOP 3 RECOMMENDATIONS:
 1. Choose colors that evoke desired emotions
 2. Design for scalability across platforms
-3. Maintain consistent brand voice`
+3. Maintain consistent brand voice
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -137,7 +152,10 @@ Outro and CTA structure
 TOP 3 RECOMMENDATIONS:
 1. Create consistent opening hook
 2. Balance content with engagement
-3. End with clear call-to-action`
+3. End with clear call-to-action
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt7: {
                     name: "Episode Topic Ideas",
@@ -158,7 +176,10 @@ Suggested guest (if applicable)
 TOP 3 RECOMMENDATIONS:
 1. Mix trending and evergreen content
 2. Include diverse perspectives
-3. Focus on actionable takeaways`
+3. Focus on actionable takeaways
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -178,7 +199,10 @@ Make it conversational, engaging, and natural.
 TOP 3 RECOMMENDATIONS:
 1. Use natural conversation flow
 2. Include strategic pauses
-3. Balance information with entertainment`
+3. Balance information with entertainment
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt9: {
                     name: "Voice Tone Training",
@@ -191,7 +215,10 @@ Include examples of tone (energetic, calm, inspiring, etc.), pacing, emphasis te
 TOP 3 RECOMMENDATIONS:
 1. Practice consistent pacing
 2. Use vocal variety for engagement
-3. Master breathing techniques`
+3. Master breathing techniques
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -213,7 +240,10 @@ Sound design best practices
 TOP 3 RECOMMENDATIONS:
 1. Invest in quality microphone
 2. Master noise reduction techniques
-3. Create consistent audio levels`
+3. Create consistent audio levels
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt11: {
                     name: "Editing Script",
@@ -231,7 +261,10 @@ Transitions and fade-outs
 TOP 3 RECOMMENDATIONS:
 1. Use strategic music for emotional impact
 2. Remove distracting filler words
-3. Create smooth transitions between segments`
+3. Create smooth transitions between segments
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -254,7 +287,10 @@ Post-launch follow-up and analytics setup
 TOP 3 RECOMMENDATIONS:
 1. Build audience before launch
 2. Create compelling trailer
-3. Plan post-launch engagement strategy`
+3. Plan post-launch engagement strategy
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt13: {
                     name: "Trailer Script",
@@ -267,7 +303,10 @@ Include a strong call-to-action to subscribe.
 TOP 3 RECOMMENDATIONS:
 1. Start with compelling hook
 2. Clearly explain value proposition
-3. Include strong CTA`
+3. Include strong CTA
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -285,7 +324,10 @@ Include submission steps, requirements, and hosting options.
 TOP 3 RECOMMENDATIONS:
 1. Submit to Apple Podcasts and Spotify first
 2. Use reliable podcast hosting service
-3. Optimize for podcast SEO`
+3. Optimize for podcast SEO
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt15: {
                     name: "Social Media Promotion",
@@ -296,7 +338,10 @@ Include captions, hashtags, and short clip ideas.
 TOP 3 RECOMMENDATIONS:
 1. Repurpose content for each platform
 2. Use platform-specific best practices
-3. Engage with audience comments`
+3. Engage with audience comments
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt16: {
                     name: "Email Marketing Plan",
@@ -315,7 +360,10 @@ First episode reminder
 TOP 3 RECOMMENDATIONS:
 1. Personalize email content
 2. Create compelling subject lines
-3. Include clear CTAs in each email`
+3. Include clear CTAs in each email
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -341,7 +389,10 @@ Listener engagement
 TOP 3 RECOMMENDATIONS:
 1. Focus on consistent quality content
 2. Leverage guest appearances
-3. Build community around show`
+3. Build community around show
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt18: {
                     name: "Monetization Strategy",
@@ -354,7 +405,10 @@ Include practical steps and potential revenue estimates.
 TOP 3 RECOMMENDATIONS:
 1. Build audience before monetizing
 2. Diversify revenue streams
-3. Align sponsors with audience interests`
+3. Align sponsors with audience interests
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -369,7 +423,10 @@ TOP 3 RECOMMENDATIONS:
 TOP 3 RECOMMENDATIONS:
 1. Use AI for transcription and show notes
 2. Automate social media content creation
-3. Implement workflow automation tools`
+3. Implement workflow automation tools
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt20: {
                     name: "Content Repurposing System",
@@ -388,7 +445,10 @@ Convert each episode into:
 TOP 3 RECOMMENDATIONS:
 1. Repurpose across multiple formats
 2. Optimize content for each platform
-3. Create evergreen content library`
+3. Create evergreen content library
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -404,7 +464,10 @@ Include sample survey questions and feedback analysis methods.
 TOP 3 RECOMMENDATIONS:
 1. Make feedback collection easy
 2. Ask specific, actionable questions
-3. Regularly implement audience suggestions`
+3. Regularly implement audience suggestions
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt22: {
                     name: "KPI Tracker",
@@ -423,7 +486,10 @@ Revenue per episode
 TOP 3 RECOMMENDATIONS:
 1. Track both quantitative and qualitative metrics
 2. Set realistic growth targets
-3. Use data to inform content decisions`
+3. Use data to inform content decisions
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         },
@@ -438,7 +504,10 @@ TOP 3 RECOMMENDATIONS:
 TOP 3 RECOMMENDATIONS:
 1. Create cross-platform content strategy
 2. Use podcast to drive traffic to other channels
-3. Develop integrated marketing campaigns`
+3. Develop integrated marketing campaigns
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 },
                 prompt24: {
                     name: "Community Building",
@@ -449,7 +518,10 @@ Include engagement strategies and content ideas.
 TOP 3 RECOMMENDATIONS:
 1. Choose platform that fits your audience
 2. Provide exclusive value to community members
-3. Foster genuine connections among members`
+3. Foster genuine connections among members
+
+  1, No explanations, no introductions, no additional text.
+  2, Always give your top 3 recommendations where necessary`
                 }
             }
         }
@@ -620,3 +692,9 @@ TOP 3 RECOMMENDATIONS:
     // Initialize
     handleSectionChange();
 });
+
+// Ask for confirmation to proceed
+console.log("JavaScript file updated with all prompts including the required instructions:");
+console.log("👉1, No explanations, no introductions, no additional text.");
+console.log("👉2, Always give your top 3 recommendations where necessary");
+console.log("Please confirm to proceed with the next code file.");
